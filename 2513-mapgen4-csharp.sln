@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2513-mapgen4-csharp", "2513-mapgen4-csharp.csproj", "{22641087-EB04-4916-DE91-0B53B9F507E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22641087-EB04-4916-DE91-0B53B9F507E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22641087-EB04-4916-DE91-0B53B9F507E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22641087-EB04-4916-DE91-0B53B9F507E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22641087-EB04-4916-DE91-0B53B9F507E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798910BA-3F17-4D12-88CC-B195002670D6}
+	EndGlobalSection
+EndGlobal
